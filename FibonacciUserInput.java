@@ -27,7 +27,7 @@ public class FibonacciUserInput {
         for (int i = 1; i <= n; i++) {
 
             // Current number print karo
-            System.out.print(first + " ");
+            System.out.print(first + " "); 
 
             // Next number calculate karo
             next = first + second;
@@ -40,5 +40,7 @@ public class FibonacciUserInput {
 
         // Scanner close
         sc.close();
+
+        System.out.println("Hey Rahul ujjawal sharama");
     }
 } 
