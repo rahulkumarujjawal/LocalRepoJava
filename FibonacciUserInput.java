@@ -41,6 +41,6 @@ public class FibonacciUserInput {
         // Scanner close
         sc.close();
 
-        System.out.println("Hey Rahul ujjawal sharama");
+        System.out.println("Hey R_ujjawal_Sharma");
     }
 } 
